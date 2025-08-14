@@ -1,2 +1,2 @@
-creats test1.txt file
-HELLO CREAYED 
+test1.txt created
+hello world
